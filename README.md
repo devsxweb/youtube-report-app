@@ -1,4 +1,4 @@
-# youtube-report-app
+# youtube-report-bot
 A powerful tool for reporting youtube accounts.
 
 developer:  https://t.me/youtube_report
