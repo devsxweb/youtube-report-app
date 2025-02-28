@@ -13,7 +13,7 @@ developer:  https://t.me/youtube_report
 developer:  https://t.me/youtube_report
 
 # USAGE
-- there is the windows os version and mac os version
+- there is the windows version and mac os version
 
 for further guide:
 
