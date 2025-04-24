@@ -1,5 +1,5 @@
 # youtube-report-bot
-A powerful tool for reporting youtube accounts.
+A powerful tool for reporting youtube accounts with mass reporting method
 
 developer:  https://t.me/youtube_report
 
