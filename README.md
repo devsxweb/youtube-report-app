@@ -32,3 +32,4 @@ bulk youtube channel ban
 # youtube report tool
 youtube ban bot
 youtube mass reporting account
+youtube ban channel
