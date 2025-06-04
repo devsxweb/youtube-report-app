@@ -30,7 +30,7 @@ bulk reporting tool
 # youtube report sender
 bulk youtube channel ban
 # youtube report tool
-youtube ban bot
+# youtube ban bot
 youtube mass reporting account
 youtube ban channel
 youtube report bot
