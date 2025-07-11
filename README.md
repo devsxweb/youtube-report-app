@@ -26,7 +26,7 @@ youtube report gigs are always available
 # youtube mass reporting bot
 youtube mass reporting  bot
 # youtube ban tool
-bulk reporting tool
+# bulk reporting tool
 # youtube report sender
 bulk youtube channel ban
 # youtube report tool
