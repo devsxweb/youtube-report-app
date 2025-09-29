@@ -35,7 +35,7 @@ youtube mass reporting  bot
 # youtube ban channel
 # youtube report bot
 # youtube ban app
-# youtube mass report
+# youtube mass reporter
 # youtube ban tool
 # youtube mass report
 # youtube report tool
