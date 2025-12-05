@@ -1,23 +1,24 @@
  # youtube-report-bot
 A powerful tool for reporting youtube accounts with mass reporting method
 
-developer:  https://t.me/youtube_report
+developer: https://t.me/redsecure
 
-![randompic](https://github.com/user-attachments/assets/a67ab1db-8810-4ccf-ac04-6739b37c6a97)
+<img width="417" height="337" alt="ytrp" src="https://github.com/user-attachments/assets/24ca80b4-c061-4ece-a9a5-e5e3f018bf29" />
+
 
 # STEPS TO FOLLOW
 - generate up to 100 sessions
 
 - generate proxies, in json format
 - 
-developer:  https://t.me/youtube_report
+developer: https://t.me/redsecure
 
 # USAGE
 - there is the windows version and mac os version
 
 for further guide:
 
-contact developer:  https://t.me/youtube_report
+contact developer:  https://t.me/redsecure
 
 an automated tool for sending bulk reports to youtube IDs, fast mass report bot and takedowns
 
