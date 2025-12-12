@@ -40,17 +40,4 @@ youtube mass reporting  bot
 # youtube ban tool
 # youtube mass report
 # youtube report tool
-# youtube banner
-# youtube report tool
-# youtube banner tool
-# youtube report ban
-# youtube ban reporter
-# youtube reporter ban
-# youtube ban tool
-# youtube ban reporter
-# youtube banner
-# youtube banner
-# youtube ban tool
-# youtube ban reporter
-# youtube ban reporter
-# youtube report ban
+
